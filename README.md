@@ -1,3 +1,6 @@
+> ⚠️ This repository has moved to [nexus](https://github.com/GTgyani206/nexus).
+> Development continues there. This repo is preserved for historical reference.
+
 # HVM Engine prototype ---  Renamed as VICE
 
 ## File Structure
